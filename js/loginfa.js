@@ -58,7 +58,7 @@ $(document).ready(function(){
     // Set Item
     localStorage.setItem("asignado", asignado);
 
-		window.location.href = 'espacioFotos11.html';
+		window.location.href = 'portal.html';
     }
         
     $('#btn-facebook').on('click', clickgo);
